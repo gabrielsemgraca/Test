@@ -1,0 +1,25 @@
+{
+	"storyName": "Indie Cross Cuphead Week",
+	"difficulties": "Nightmare",
+	"hideFreeplay": false,
+	"weekBackground": "crossedout",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		["Crossed Out","Final",[255,255,255]],
+		["Crossed Out Chomastered","Final",[255,255,255]]
+	],
+	"weekCharacters": [
+		"logo",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Cuphead Week"
+}
