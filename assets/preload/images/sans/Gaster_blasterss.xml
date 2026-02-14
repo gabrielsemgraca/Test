@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gaster blasterss.png">
+	
+	
+<SubTexture name="BlasterBlank0001" x="0.0" y="0.0" width="0.25" height="0.25" frameX="-190.25" frameY="-54.0" frameWidth="1712.25" frameHeight="125.25" />
+
+<SubTexture name="BlasterCharge0000" x="2.5" y="2.5" width="124.5" height="97.5" frameX="0.0" frameY="-18.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0001" x="129.5" y="2.5" width="122.75" height="100.5" frameX="-54.0" frameY="-14.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0002" x="254.75" y="2.5" width="112.0" height="102.5" frameX="-109.5" frameY="-16.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0003" x="369.25" y="2.5" width="101.5" height="109.5" frameX="-165.75" frameY="-10.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0004" x="473.25" y="2.5" width="102.0" height="119.0" frameX="-206.0" frameY="-2.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0005" x="577.75" y="2.5" width="97.0" height="124.75" frameX="-246.75" frameY="-0.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0006" x="677.25" y="2.5" width="98.0" height="124.5" frameX="-285.5" frameY="0.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0007" x="777.75" y="2.5" width="102.0" height="119.5" frameX="-315.5" frameY="-0.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0008" x="882.25" y="2.5" width="102.5" height="112.5" frameX="-343.75" frameY="-4.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0009" x="986.75" y="2.5" width="104.5" height="106.75" frameX="-369.5" frameY="-9.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0010" x="1094.25" y="2.5" width="110.5" height="101.75" frameX="-393.25" frameY="-12.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0011" x="1207.25" y="2.5" width="114.0" height="102.5" frameX="-414.25" frameY="-10.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0012" x="1323.75" y="2.5" width="118.75" height="102.25" frameX="-429.5" frameY="-8.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0013" x="1445.0" y="2.5" width="121.75" height="101.25" frameX="-442.0" frameY="-7.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0014" x="1569.25" y="2.5" width="123.5" height="100.0" frameX="-452.0" frameY="-7.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0015" x="1695.25" y="2.5" width="124.25" height="98.75" frameX="-459.5" frameY="-7.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0016" x="1822.0" y="2.5" width="124.75" height="97.75" frameX="-464.0" frameY="-7.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0017" x="2.5" y="129.75" width="124.75" height="97.5" frameX="-465.5" frameY="-7.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0018" x="129.75" y="129.75" width="124.75" height="97.0" frameX="-466.5" frameY="-8.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0019" x="257.0" y="129.75" width="124.75" height="97.0" frameX="-467.5" frameY="-8.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0020" x="384.25" y="129.75" width="125.0" height="97.0" frameX="-468.25" frameY="-8.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0021" x="511.75" y="129.75" width="125.0" height="97.25" frameX="-469.25" frameY="-8.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0022" x="639.25" y="129.75" width="124.75" height="97.0" frameX="-470.25" frameY="-8.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0023" x="766.5" y="129.75" width="124.75" height="97.0" frameX="-471.25" frameY="-8.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0024" x="893.75" y="129.75" width="124.75" height="97.25" frameX="-472.25" frameY="-8.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0025" x="1021.0" y="129.75" width="124.75" height="97.25" frameX="-473.25" frameY="-9.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0026" x="1148.25" y="129.75" width="124.75" height="97.25" frameX="-474.25" frameY="-9.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterCharge0027" x="1275.5" y="129.75" width="124.5" height="97.25" frameX="-475.25" frameY="-9.5" frameWidth="1712.25" frameHeight="125.25" />
+
+<SubTexture name="BlasterFire0000" x="2.5" y="229.75" width="1208.0" height="101.5" frameX="-476.5" frameY="-7.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0001" x="2.5" y="333.75" width="1233.75" height="101.5" frameX="-451.5" frameY="-7.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0002" x="2.5" y="437.75" width="1259.75" height="101.5" frameX="-426.5" frameY="-7.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0003" x="2.5" y="541.75" width="1285.5" height="101.5" frameX="-401.5" frameY="-7.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0004" x="2.5" y="645.75" width="1311.25" height="101.5" frameX="-376.5" frameY="-7.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0005" x="2.5" y="749.75" width="1337.25" height="101.5" frameX="-351.25" frameY="-7.25" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0006" x="2.5" y="853.75" width="1406.5" height="101.5" frameX="-286.75" frameY="-8.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0007" x="2.5" y="957.75" width="1476.5" height="101.5" frameX="-221.75" frameY="-9.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0008" x="2.5" y="1061.75" width="1539.0" height="101.5" frameX="-157.0" frameY="-10.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0009" x="2.5" y="1165.75" width="1506.5" height="57.5" frameX="-192.0" frameY="-30.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0010" x="2.5" y="1225.75" width="1508.75" height="36.0" frameX="-192.5" frameY="-41.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0011" x="2.5" y="1264.25" width="1511.25" height="43.25" frameX="-192.75" frameY="-38.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0012" x="2.5" y="1307.5" width="1513.75" height="32.75" frameX="-193.0" frameY="-43.75" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0013" x="2.5" y="1349.25" width="1516.25" height="18.25" frameX="-193.25" frameY="-51.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0014" x="2.5" y="1366.0" width="1518.75" height="17.25" frameX="-193.5" frameY="-52.5" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0015" x="2.5" y="1377.5" width="1521.25" height="9.0" frameX="-190.25" frameY="-54.0" frameWidth="1712.25" frameHeight="125.25" />
+<SubTexture name="BlasterFire0016" x="0.0" y="0.0" width="0.25" height="0.25" frameX="-190.25" frameY="-54.0" frameWidth="1712.25" frameHeight="125.25" />
+</TextureAtlas>
