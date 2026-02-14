@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Grainshit.png">
+<SubTexture name="Geain instance 10000" x="0" y="0" width="320" height="180" frameX="-1" frameY="0" frameWidth="320" frameHeight="180" />
+<SubTexture name="Geain instance 10001" x="320" y="0" width="320" height="180" frameX="-1" frameY="-1" frameWidth="320" frameHeight="180" />
+<SubTexture name="Geain instance 10002" x="0" y="180" width="320" height="180" frameX="-1" frameY="-1" frameWidth="320" frameHeight="180" />
+<SubTexture name="Geain instance 10003" x="0" y="0" width="320" height="180" frameX="0" frameY="-1" frameWidth="320" frameHeight="180" />
+<SubTexture name="Geain instance 10004" x="320" y="0" width="320" height="180" frameX="-1" frameY="-1" frameWidth="320" frameHeight="180" />
+<SubTexture name="Geain instance 10005" x="0" y="180" width="320" height="180" frameX="-1" frameY="-1" frameWidth="320" frameHeight="180" />
+<SubTexture name="Geain instance 10006" x="0" y="0" width="320" height="180" frameX="-1" frameY="0" frameWidth="320" frameHeight="180" />
+</TextureAtlas>
