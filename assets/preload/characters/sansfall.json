@@ -1,0 +1,78 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                -155,
+                -20
+            ],
+            "loop": true,
+            "fps": 18,
+            "anim": "idle",
+            "indices": [],
+            "name": "SansFallIdle"
+        },
+        {
+            "offsets": [
+                -158,
+                -18
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "SansFallRight"
+        },
+        {
+            "offsets": [
+                -161,
+                -17
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "SansFalldown"
+        },
+        {
+            "offsets": [
+                -148,
+                -24
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singUP",
+            "indices": [],
+            "name": "SansFallup"
+        },
+        {
+            "offsets": [
+                -156,
+                -21
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "SansFallleft"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/cross/SansCrossFall",
+    "position": [
+        550,
+        250
+    ],
+    "healthicon": "sans",
+    "flip_x": false,
+    "healthbar_colors": [
+        255,
+        0,
+        0
+    ],
+    "camera_position": [
+        250,
+        -70
+    ],
+    "sing_duration": 4,
+    "scale": 1.8
+}

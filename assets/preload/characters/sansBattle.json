@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-506,
+				-3
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "EReree ee instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-456,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "LeftUT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-507,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "DownUT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-509,
+				25
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "UpUT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-508,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "RightUT instance",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/cross/BattleSansCross",
+	"position": [
+		-380,
+		-930
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		200,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

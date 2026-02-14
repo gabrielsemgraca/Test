@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				-224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-159,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-180,
+				-246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-140,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-72,
+				-213
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "intro",
+			"indices": [],
+			"name": "Cuphead Intro phase 2 instance"
+		},
+		{
+			"offsets": [
+				-152,
+				-220
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cuphead_standing"
+		},
+		{
+			"offsets": [
+				55,
+				-118
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Hurt"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-150,
+				-224
+			],
+			"anim": "shotting",
+			"fps": 24,
+			"name": "Shoot instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				195,
+				123
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "big shot",
+			"indices": [],
+			"name": "DoubleDown"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/cross/CupheadCross",
+	"position": [
+		-110,
+		210
+	],
+	"healthicon": "cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		54
+	],
+	"camera_position": [
+		-50,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 3.4,
+	"_editor_isPlayer": false
+}

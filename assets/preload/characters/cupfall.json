@@ -1,0 +1,155 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                -155,
+                -20
+            ],
+            "loop": true,
+            "fps": 18,
+            "anim": "idle",
+            "indices": [],
+            "name": "CupIdle"
+        },
+        {
+            "offsets": [
+                -157,
+                -22
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "CupRight"
+        },
+        {
+            "offsets": [
+                -163,
+                -15
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "CupDown"
+        },
+        {
+            "offsets": [
+                -154,
+                -32
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singUP",
+            "indices": [],
+            "name": "CupUp"
+        },
+        {
+            "offsets": [
+                -157,
+                -22
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "CupLeft"
+        },
+        {
+            "offsets": [
+                -157,
+                -22
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singRIGHT-alt",
+            "indices": [],
+            "name": "CupRight"
+        },
+        {
+            "offsets": [
+                -163,
+                -15
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singDOWN-alt",
+            "indices": [],
+            "name": "CupDown"
+        },
+        {
+            "offsets": [
+                -154,
+                -32
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singUP-alt",
+            "indices": [],
+            "name": "CupUp"
+        },
+        {
+            "offsets": [
+                -157,
+                -22
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singLEFT-alt",
+            "indices": [],
+            "name": "CupLeft"
+        },
+        {
+            "offsets": [
+                -154,
+                -21
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "shotting",
+            "indices": [],
+            "name": "CupShoot"
+        },
+        {
+            "offsets": [
+                -154,
+                -21
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "hurt",
+            "indices": [],
+            "name": "CupOwie"
+        },
+        {
+            "offsets": [
+                -154,
+                -21
+            ],
+            "loop": false,
+            "fps": 14,
+            "anim": "big shot",
+            "indices": [],
+            "name": "CupTooLazyToAnimateThis"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/cross/CupCrossFall",
+    "position": [
+        0,
+        320
+    ],
+    "healthicon": "Cuphead",
+    "flip_x": false,
+    "healthbar_colors": [
+        255,
+        0,
+        0
+    ],
+    "camera_position": [
+        200,
+        -60
+    ],
+    "sing_duration": 4,
+    "scale": 2.0
+}

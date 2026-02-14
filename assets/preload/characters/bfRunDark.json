@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				-7
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-7
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Oshit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-16
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-16
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-16
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-16
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				19,
+				-16
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				19,
+				-16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				19,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				19,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendy/NewBFrunDark",
+	"position": [
+		170,
+		360
+	],
+	"healthicon": "bf2",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		173,
+		71
+	],
+	"camera_position": [
+		230,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

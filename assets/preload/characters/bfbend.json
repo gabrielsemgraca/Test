@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF annoyed instance"
+		},
+		{
+			"offsets": [
+				-30,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN instance"
+		},
+		{
+			"offsets": [
+				-56,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP instance"
+		},
+		{
+			"offsets": [
+				19,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE LEFT instance"
+		},
+		{
+			"offsets": [
+				-46,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE RIGHT instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cross/BfBendyCross",
+	"position": [
+		-400,
+		190
+	],
+	"healthicon": "bf2",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		173,
+		71
+	],
+	"camera_position": [
+		210,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 3
+}

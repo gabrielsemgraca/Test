@@ -1,0 +1,334 @@
+{
+    "animations": [
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "idle",
+            "fps": 14,
+            "name": "NightmareIdle",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singRIGHT",
+            "fps": 14,
+            "name": "CupRight",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singDOWN",
+            "fps": 14,
+            "name": "CupDown",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singUP",
+            "fps": 14,
+            "name": "CupUp",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singLEFT",
+            "fps": 14,
+            "name": "CupLeft",
+            "indices": []
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singRIGHT-loop",
+            "fps": 14,
+            "name": "CupRight",
+            "indices": [
+                2,
+                3
+            ]
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singDOWN-loop",
+            "fps": 14,
+            "name": "CupDown",
+            "indices": [
+                2,
+                3
+            ]
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singUP-loop",
+            "fps": 14,
+            "name": "CupUp",
+            "indices": [
+                2,
+                3
+            ]
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singLEFT-loop",
+            "fps": 14,
+            "name": "CupLeft",
+            "indices": [
+                2,
+                3
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singRIGHT-alt",
+            "fps": 14,
+            "name": "BendyRight",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singDOWN-alt",
+            "fps": 14,
+            "name": "BendyDown",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singUP-alt",
+            "fps": 14,
+            "name": "BendyUp",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singLEFT-alt",
+            "fps": 14,
+            "name": "BendyLeft",
+            "indices": []
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singRIGHT-alt-loop",
+            "fps": 14,
+            "name": "BendyRight",
+            "indices": [
+                2,
+                3
+            ]
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singDOWN-alt-loop",
+            "fps": 14,
+            "name": "BendyDown",
+            "indices": [
+                2,
+                3
+            ]
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singUP-alt-loop",
+            "fps": 14,
+            "name": "BendyUp",
+            "indices": [
+                2,
+                3
+            ]
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singLEFT-alt-loop",
+            "fps": 14,
+            "name": "BendyLeft",
+            "indices": [
+                2,
+                3
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singRIGHT-sub",
+            "fps": 14,
+            "name": "SansRight",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singDOWN-sub",
+            "fps": 14,
+            "name": "SansDown",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singUP-sub",
+            "fps": 14,
+            "name": "SansUp",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singLEFT-sub",
+            "fps": 14,
+            "name": "SansLeft",
+            "indices": []
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singRIGHT-sub-loop",
+            "fps": 14,
+            "name": "SansRight",
+            "indices": [
+                1,
+                2
+            ]
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singDOWN-sub-loop",
+            "fps": 14,
+            "name": "SansDown",
+            "indices": [
+                2,
+                3
+            ]
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singUP-sub-loop",
+            "fps": 14,
+            "name": "SansUp",
+            "indices": [
+                1,
+                2
+            ]
+        },
+        {
+            "loop": true,
+            "offsets": [
+                -130,
+                30
+            ],
+            "anim": "singLEFT-sub-loop",
+            "fps": 14,
+            "name": "SansLeft",
+            "indices": [
+                1,
+                2
+            ]
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/cross/CrossedOut",
+    "position": [
+        -120,
+        210
+    ],
+    "healthicon": "Final",
+    "flip_x": false,
+    "healthbar_colors": [
+        0,
+        0,
+        0
+    ],
+    "camera_position": [
+        -380,
+        -250
+    ],
+    "sing_duration": 4,
+    "scale": 4.0
+}

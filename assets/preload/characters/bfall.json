@@ -1,0 +1,89 @@
+{
+    "animations": [
+        {
+            "loop": true,
+            "offsets": [
+                -180,
+                63
+            ],
+            "anim": "idle",
+            "fps": 18,
+            "name": "BFfallidle",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -179,
+                62
+            ],
+            "anim": "singRIGHT",
+            "fps": 12,
+            "name": "BFfallright",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -181,
+                61
+            ],
+            "anim": "singDOWN",
+            "fps": 12,
+            "name": "BFfalldown",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -182,
+                60
+            ],
+            "anim": "singUP",
+            "fps": 12,
+            "name": "BFfallup",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -183,
+                61
+            ],
+            "anim": "singLEFT",
+            "fps": 12,
+            "name": "left",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                314,
+                65
+            ],
+            "anim": "attack",
+            "fps": 24,
+            "name": "BFfallattack",
+            "indices": []
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/cross/BFCrossFall",
+    "position": [
+        -190,
+        430
+    ],
+    "healthicon": "bf",
+    "flip_x": true,
+    "healthbar_colors": [
+        255,
+        255,
+        0
+    ],
+    "camera_position": [
+        250,
+        -120
+    ],
+    "sing_duration": 4,
+    "scale": 1.5384615384615383
+}

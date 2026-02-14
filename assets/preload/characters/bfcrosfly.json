@@ -1,0 +1,78 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                -125,
+                10
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "idle",
+            "indices": [],
+            "name": "BFflyidle"
+        },
+        {
+            "offsets": [
+                -125,
+                17
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "BFflyright"
+        },
+        {
+            "offsets": [
+                -123,
+                20
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "BFflydown"
+        },
+        {
+            "offsets": [
+                -129,
+                8
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singUP",
+            "indices": [],
+            "name": "BFflyup"
+        },
+        {
+            "offsets": [
+                -127,
+                9
+            ],
+            "loop": false,
+            "fps": 12,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "BFflyleft"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/cross/BFCrossBlue",
+    "position": [
+        -500,
+        -250
+    ],
+    "healthicon": "bf",
+    "flip_x": true,
+    "healthbar_colors": [
+        255,
+        255,
+        0
+    ],
+    "camera_position": [
+        -20,
+        20
+    ],
+    "sing_duration": 4,
+    "scale": 1.6666666666666667
+}

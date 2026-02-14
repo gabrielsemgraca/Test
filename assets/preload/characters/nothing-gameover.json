@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				-21
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 1,
+			"name": "gf sad",
+			"indices": [
+			]
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": true,
+			"anim": "deathLoop",
+			"fps": 1,
+			"name": "GF Dancing Beat",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 1,
+			"name": "GF Dancing Beat",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/0Nothing",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nothing",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": null,
+	"scale": 1
+}

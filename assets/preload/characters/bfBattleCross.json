@@ -1,0 +1,102 @@
+{
+	"animations": [
+		
+		{
+			"loop": false,
+			"offsets": [
+				515,
+				4
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "0Idle instance",
+			"indices": [
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				503,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "0EERR instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				568,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "0EEEE instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				505,
+				-23
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "0Ouu instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				526,
+				56
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "0UPPP instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				545,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "test",
+			"indices": [],
+			"name": "Pee instance"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1220,
+				250
+			],
+			"anim": "test2",
+			"fps": 24,
+			"name": "Roses got me like instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cross/BattleBfCross",
+	"position": [
+		-385,
+		-290
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		445,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

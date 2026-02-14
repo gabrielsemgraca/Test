@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "B-Right instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-161,
+				34
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Bendy Idle instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				312,
+				45
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				236
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bendydown instance ",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/cross/BendyCrossed",
+	"position": [
+		-740,
+		-200
+	],
+	"healthicon": "bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-200,
+		-340
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 4,
+	"_editor_isPlayer": false
+}
