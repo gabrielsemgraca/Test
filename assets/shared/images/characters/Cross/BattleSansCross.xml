@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BattleSansCross.png">
+  <SubTexture name="DownUT instance 0000" x="890" y="0" width="231" height="245" frameX="0" frameY="-14" frameWidth="231" frameHeight="259"/>
+  <SubTexture name="DownUT instance 0001" x="0" y="520" width="225" height="258" frameX="-2" frameY="-1" frameWidth="231" frameHeight="259"/>
+  <SubTexture name="DownUT instance 0002" x="224" y="260" width="224" height="259" frameX="-2" frameY="0" frameWidth="231" frameHeight="259"/>
+  <SubTexture name="DownUT instance 0003" x="444" y="1039" width="220" height="259" frameX="-2" frameY="0" frameWidth="231" frameHeight="259"/>
+  <SubTexture name="EReree ee instance 0000" x="0" y="778" width="222" height="260" frameX="-2" frameY="0" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="EReree ee instance 0001" x="0" y="1038" width="222" height="260" frameX="0" frameY="0" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="EReree ee instance 0002" x="670" y="0" width="220" height="259" frameX="0" frameY="-1" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="EReree ee instance 0003" x="0" y="1038" width="222" height="260" frameX="0" frameY="0" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="EReree ee instance 0004" x="0" y="778" width="222" height="260" frameX="-2" frameY="0" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="EReree ee instance 0005" x="222" y="778" width="222" height="260" frameX="-3" frameY="0" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="EReree ee instance 0006" x="222" y="1038" width="222" height="260" frameX="-5" frameY="0" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="EReree ee instance 0007" x="228" y="0" width="224" height="258" frameX="-6" frameY="-2" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="EReree ee instance 0008" x="222" y="1038" width="222" height="260" frameX="-5" frameY="0" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="EReree ee instance 0009" x="444" y="519" width="222" height="260" frameX="-3" frameY="0" frameWidth="230" frameHeight="260"/>
+  <SubTexture name="LeftUT instance 0000" x="444" y="779" width="221" height="260" frameX="-19" frameY="0" frameWidth="256" frameHeight="260"/>
+  <SubTexture name="LeftUT instance 0001" x="882" y="519" width="216" height="260" frameX="-24" frameY="0" frameWidth="256" frameHeight="260"/>
+  <SubTexture name="LeftUT instance 0002" x="882" y="779" width="213" height="260" frameX="-27" frameY="0" frameWidth="256" frameHeight="260"/>
+  <SubTexture name="RightUT instance 0000" x="0" y="0" width="228" height="260" frameX="-13" frameY="0" frameWidth="254" frameHeight="260"/>
+  <SubTexture name="RightUT instance 0001" x="0" y="260" width="224" height="260" frameX="-7" frameY="0" frameWidth="254" frameHeight="260"/>
+  <SubTexture name="RightUT instance 0002" x="882" y="259" width="218" height="260" frameX="-3" frameY="0" frameWidth="254" frameHeight="260"/>
+  <SubTexture name="UpUT instance 0000" x="452" y="0" width="218" height="264" frameX="-1" frameY="-10" frameWidth="227" frameHeight="274"/>
+  <SubTexture name="UpUT instance 0001" x="665" y="779" width="217" height="264" frameX="-1" frameY="-10" frameWidth="227" frameHeight="274"/>
+  <SubTexture name="UpUT instance 0002" x="666" y="264" width="216" height="264" frameX="-1" frameY="-10" frameWidth="227" frameHeight="274"/>
+</TextureAtlas>

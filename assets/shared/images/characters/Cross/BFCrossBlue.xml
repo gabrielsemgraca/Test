@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFCrossBlue.png">
+  <SubTexture name="BFflydown0000" x="575" y="788" width="296" height="230" frameX="-44" frameY="-108" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflydown0001" x="291" y="783" width="284" height="246" frameX="-50" frameY="-91" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyidle0000" x="285" y="262" width="287" height="259" frameX="-46" frameY="-70" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyidle0001" x="0" y="783" width="291" height="252" frameX="-44" frameY="-77" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyidle0002" x="289" y="532" width="291" height="251" frameX="-44" frameY="-78" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyidle0003" x="0" y="528" width="289" height="255" frameX="-45" frameY="-74" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyidle0004" x="572" y="274" width="288" height="258" frameX="-46" frameY="-71" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyidle0005" x="285" y="262" width="287" height="259" frameX="-46" frameY="-70" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyleft0000" x="860" y="531" width="276" height="257" frameX="-37" frameY="-74" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyleft0001" x="860" y="274" width="279" height="257" frameX="-42" frameY="-73" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyright0000" x="0" y="0" width="298" height="262" frameX="-52" frameY="-67" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyright0001" x="298" y="0" width="293" height="262" frameX="-49" frameY="-67" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyup0000" x="591" y="0" width="280" height="274" frameX="-45" frameY="-54" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BFflyup0001" x="0" y="262" width="285" height="266" frameX="-45" frameY="-61" frameWidth="360" frameHeight="360"/>
+</TextureAtlas>

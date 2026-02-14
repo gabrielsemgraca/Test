@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SansCrossBlue.png">
+<SubTexture name="SansHoldleft0000" x="567" y="228" width="181" height="227" frameX="-42" frameY="-57" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHoldleft0001" x="0" y="479" width="185" height="227" frameX="-47" frameY="-57" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHoldright0000" x="0" y="251" width="216" height="228" frameX="-65" frameY="-56" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHoldright0001" x="360" y="0" width="207" height="229" frameX="-60" frameY="-55" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHoldup0000" x="0" y="0" width="178" height="251" frameX="-53" frameY="-33" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHoldup0001" x="178" y="0" width="182" height="242" frameX="-54" frameY="-42" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHolddown0000" x="0" y="706" width="218" height="195" frameX="-56" frameY="-90" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHolddown0001" x="765" y="0" width="210" height="205" frameX="-58" frameY="-80" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHoldIdle0000" x="216" y="251" width="195" height="228" frameX="-54" frameY="-56" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHoldIdle0001" x="385" y="479" width="202" height="225" frameX="-52" frameY="-59" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHoldIdle0002" x="185" y="479" width="200" height="226" frameX="-53" frameY="-58" frameWidth="300" frameHeight="300" />
+<SubTexture name="SansHoldIdle0003" x="567" y="0" width="198" height="228" frameX="-53" frameY="-56" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFCrossGuitar.png">
+  <SubTexture name="BfguitarIlde0000" x="509" y="0" width="247" height="279" frameX="-47" frameY="-60" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BfguitarLeft0000" x="237" y="560" width="271" height="273" frameX="-6" frameY="-66" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BfguitarLeft0001" x="0" y="0" width="271" height="279" frameX="-10" frameY="-60" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BfguitarLeft0002" x="0" y="279" width="269" height="281" frameX="-13" frameY="-58" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BfguitarRight0000" x="508" y="613" width="242" height="274" frameX="-79" frameY="-65" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BfguitarRight0001" x="756" y="0" width="238" height="273" frameX="-77" frameY="-66" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="BfguitarRight0002" x="746" y="279" width="240" height="273" frameX="-72" frameY="-66" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="Bfguitardown0000" x="237" y="833" width="254" height="238" frameX="-29" frameY="-101" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="Bfguitardown0001" x="750" y="802" width="255" height="245" frameX="-31" frameY="-94" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="Bfguitardown0002" x="750" y="552" width="255" height="250" frameX="-32" frameY="-89" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="Bfguitarup0000" x="0" y="560" width="237" height="313" frameX="-64" frameY="-26" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="Bfguitarup0001" x="271" y="0" width="238" height="309" frameX="-62" frameY="-30" frameWidth="360" frameHeight="360"/>
+  <SubTexture name="Bfguitarup0002" x="508" y="309" width="238" height="304" frameX="-61" frameY="-35" frameWidth="360" frameHeight="360"/>
+</TextureAtlas>

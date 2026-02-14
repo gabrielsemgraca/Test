@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SansCrossFall.png">
+  <SubTexture name="SansFallIdle0000" x="195" y="0" width="192" height="195" frameX="-65" frameY="-64" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallIdle0001" x="196" y="616" width="191" height="196" frameX="-66" frameY="-64" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallIdle0002" x="581" y="591" width="191" height="195" frameX="-65" frameY="-64" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallIdle0003" x="196" y="616" width="191" height="196" frameX="-66" frameY="-64" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallRight0000" x="387" y="194" width="186" height="194" frameX="-77" frameY="-66" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallRight0001" x="387" y="0" width="187" height="194" frameX="-75" frameY="-66" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallRight0002" x="574" y="190" width="187" height="194" frameX="-74" frameY="-66" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFalldown0000" x="384" y="404" width="200" height="187" frameX="-61" frameY="-74" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFalldown0001" x="584" y="0" width="196" height="190" frameX="-63" frameY="-71" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFalldown0002" x="387" y="591" width="194" height="192" frameX="-64" frameY="-69" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallleft0000" x="0" y="637" width="196" height="194" frameX="-56" frameY="-65" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallleft0001" x="189" y="422" width="195" height="194" frameX="-58" frameY="-65" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallleft0002" x="192" y="210" width="195" height="194" frameX="-59" frameY="-65" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallup0000" x="0" y="422" width="189" height="215" frameX="-66" frameY="-42" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallup0001" x="0" y="210" width="192" height="212" frameX="-64" frameY="-45" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="SansFallup0002" x="0" y="0" width="195" height="210" frameX="-63" frameY="-47" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>

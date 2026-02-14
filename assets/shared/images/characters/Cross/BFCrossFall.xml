@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFCrossFall.png">
+  <SubTexture name="BFfallattack0000" x="466" y="779" width="233" height="185" frameX="-371" frameY="-103" frameWidth="650" frameHeight="325"/>
+  <SubTexture name="BFfallattack0001" x="234" y="592" width="232" height="190" frameX="-369" frameY="-97" frameWidth="650" frameHeight="325"/>
+  <SubTexture name="BFfallattack0003" x="234" y="592" width="232" height="190" frameX="-369" frameY="-97" frameWidth="650" frameHeight="325"/>
+  <SubTexture name="BFfallattack0004" x="234" y="592" width="232" height="190" frameX="-369" frameY="-97" frameWidth="650" frameHeight="325"/>
+  <SubTexture name="BFfallattack0005" x="529" y="0" width="261" height="188" frameX="-339" frameY="-98" frameWidth="650" frameHeight="325"/>
+  <SubTexture name="BFfallattack0006" x="0" y="0" width="529" height="196" frameX="-69" frameY="-87" frameWidth="650" frameHeight="325"/>
+  <SubTexture name="BFfallattack0007" x="468" y="387" width="235" height="197" frameX="-363" frameY="-87" frameWidth="650" frameHeight="325"/>
+  <SubTexture name="BFfalldown0000" x="699" y="788" width="237" height="175" frameX="-40" frameY="-108" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="BFfalldown0001" x="701" y="601" width="236" height="187" frameX="-41" frameY="-97" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="BFfallidle0000" x="234" y="395" width="234" height="197" frameX="-42" frameY="-86" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="BFfallidle0001" x="0" y="396" width="234" height="197" frameX="-43" frameY="-86" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="BFfallidle0002" x="234" y="196" width="234" height="199" frameX="-42" frameY="-85" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="BFfallright0000" x="703" y="406" width="233" height="195" frameX="-51" frameY="-92" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="BFfallright0001" x="468" y="584" width="233" height="195" frameX="-48" frameY="-90" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="BFfallup0000" x="790" y="0" width="233" height="208" frameX="-44" frameY="-71" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="BFfallup0001" x="0" y="196" width="234" height="200" frameX="-42" frameY="-79" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="left0000" x="529" y="188" width="240" height="199" frameX="-30" frameY="-83" frameWidth="325" frameHeight="325"/>
+  <SubTexture name="left0001" x="769" y="208" width="237" height="198" frameX="-36" frameY="-85" frameWidth="325" frameHeight="325"/>
+</TextureAtlas>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BendyCrossed.png">
+<SubTexture name="B-Right instance 0000" x="0" y="1142.5" width="311" height="209" frameX="-6" frameY="-55.5" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0001" x="1351" y="0" width="307" height="214.5" frameX="-4.5" frameY="-51" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0002" x="1351" y="0" width="307" height="214.5" frameX="-4.5" frameY="-51" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0003" x="921" y="922.5" width="307" height="216" frameX="-3" frameY="-49.5" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0004" x="921" y="922.5" width="307" height="216" frameX="-3" frameY="-49.5" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0005" x="614" y="922.5" width="307" height="218" frameX="-2" frameY="-48" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0006" x="614" y="922.5" width="307" height="218" frameX="-2" frameY="-48" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0007" x="307" y="922.5" width="307" height="219.5" frameX="-1" frameY="-47" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0008" x="307" y="922.5" width="307" height="219.5" frameX="-1" frameY="-47" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0009" x="0" y="922.5" width="307" height="220" frameX="-0.5" frameY="-46.5" frameWidth="317" frameHeight="267" />
+<SubTexture name="B-Right instance 0010" x="0" y="922.5" width="307" height="220" frameX="-0.5" frameY="-46.5" frameWidth="317" frameHeight="267" />
+<SubTexture name="Bendy Idle instance 0000" x="1061.5" y="542.5" width="210.5" height="267" frameX="0" frameY="-6" frameWidth="211" frameHeight="273.5" />
+<SubTexture name="Bendy Idle instance 0001" x="1061.5" y="271.5" width="208.5" height="271" frameX="-2" frameY="-2" frameWidth="211" frameHeight="273.5" />
+<SubTexture name="Bendy Idle instance 0002" x="566" y="645.5" width="208.5" height="272.5" frameX="-2" frameY="-0.5" frameWidth="211" frameHeight="273.5" />
+<SubTexture name="Bendy Idle instance 0003" x="774.5" y="645.5" width="208.5" height="272.5" frameX="-2" frameY="-0.5" frameWidth="211" frameHeight="273.5" />
+<SubTexture name="Bendy Idle instance 0004" x="541" y="326" width="208.5" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273.5" />
+<SubTexture name="Left instance 0000" x="1061.5" y="0" width="289.5" height="271.5" frameX="0" frameY="-7" frameWidth="310.5" frameHeight="279" />
+<SubTexture name="Left instance 0001" x="777" y="0" width="284.5" height="278.5" frameX="-8" frameY="0" frameWidth="310.5" frameHeight="279" />
+<SubTexture name="Left instance 0002" x="777" y="0" width="284.5" height="278.5" frameX="-8" frameY="0" frameWidth="310.5" frameHeight="279" />
+<SubTexture name="Left instance 0003" x="777" y="278.5" width="284.5" height="277.5" frameX="-10" frameY="-1" frameWidth="310.5" frameHeight="279" />
+<SubTexture name="Left instance 0004" x="777" y="278.5" width="284.5" height="277.5" frameX="-10" frameY="-1" frameWidth="310.5" frameHeight="279" />
+<SubTexture name="Left instance 0005" x="0" y="645.5" width="283.5" height="277" frameX="-11" frameY="-1.5" frameWidth="310.5" frameHeight="279" />
+<SubTexture name="Left instance 0006" x="0" y="645.5" width="283.5" height="277" frameX="-11" frameY="-1.5" frameWidth="310.5" frameHeight="279" />
+<SubTexture name="Left instance 0007" x="283.5" y="645.5" width="282.5" height="276.5" frameX="-12.5" frameY="-2" frameWidth="310.5" frameHeight="279" />
+<SubTexture name="Left instance 0008" x="283.5" y="645.5" width="282.5" height="276.5" frameX="-12.5" frameY="-2" frameWidth="310.5" frameHeight="279" />
+
+<SubTexture name="Up instance 0000" x="0" y="0" width="250" height="326" frameX="-10" frameY="0" frameWidth="290" frameHeight="327.5" />
+<SubTexture name="Up instance 0001" x="250" y="0" width="260" height="320.5" frameX="-5" frameY="-5.5" frameWidth="290" frameHeight="327.5" />
+<SubTexture name="Up instance 0002" x="250" y="0" width="260" height="320.5" frameX="-5" frameY="-5.5" frameWidth="290" frameHeight="327.5" />
+<SubTexture name="Up instance 0003" x="510" y="0" width="267" height="320" frameX="-2" frameY="-6.5" frameWidth="290" frameHeight="327.5" />
+<SubTexture name="Up instance 0004" x="510" y="0" width="267" height="320" frameX="-2" frameY="-6.5" frameWidth="290" frameHeight="327.5" />
+<SubTexture name="Up instance 0005" x="0" y="326" width="269.5" height="319.5" frameX="-1" frameY="-7" frameWidth="290" frameHeight="327.5" />
+<SubTexture name="Up instance 0006" x="0" y="326" width="269.5" height="319.5" frameX="-1" frameY="-7" frameWidth="290" frameHeight="327.5" />
+<SubTexture name="Up instance 0007" x="269.5" y="326" width="271.5" height="319" frameX="0" frameY="-7" frameWidth="290" frameHeight="327.5" />
+<SubTexture name="Up instance 0008" x="269.5" y="326" width="271.5" height="319" frameX="0" frameY="-7" frameWidth="290" frameHeight="327.5" />
+<SubTexture name="bendydown instance 0000" x="1351" y="880" width="256" height="155" frameX="0" frameY="-100" frameWidth="256" frameHeight="257.5" />
+<SubTexture name="bendydown instance 0001" x="1351" y="718" width="249" height="162" frameX="-2.5" frameY="-93.5" frameWidth="256" frameHeight="257.5" />
+<SubTexture name="bendydown instance 0002" x="1351" y="718" width="249" height="162" frameX="-2.5" frameY="-93.5" frameWidth="256" frameHeight="257.5" />
+<SubTexture name="bendydown instance 0003" x="1351" y="552.5" width="246" height="165.5" frameX="-3.5" frameY="-90" frameWidth="256" frameHeight="257.5" />
+<SubTexture name="bendydown instance 0004" x="1351" y="552.5" width="246" height="165.5" frameX="-3.5" frameY="-90" frameWidth="256" frameHeight="257.5" />
+<SubTexture name="bendydown instance 0005" x="1351" y="384.5" width="243.5" height="168" frameX="-4" frameY="-87.5" frameWidth="256" frameHeight="257.5" />
+<SubTexture name="bendydown instance 0006" x="1351" y="384.5" width="243.5" height="168" frameX="-4" frameY="-87.5" frameWidth="256" frameHeight="257.5" />
+<SubTexture name="bendydown instance 0007" x="1351" y="214.5" width="241.5" height="170" frameX="-5" frameY="-85.5" frameWidth="256" frameHeight="257.5" />
+<SubTexture name="bendydown instance 0008" x="1351" y="214.5" width="241.5" height="170" frameX="-5" frameY="-85.5" frameWidth="256" frameHeight="257.5" />
+
+</TextureAtlas>

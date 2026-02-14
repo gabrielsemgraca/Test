@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CupCrossFall.png">
+  <SubTexture name="CupDown0000" x="804" y="726" width="199" height="162" frameX="-40" frameY="-104" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupDown0001" x="603" y="726" width="201" height="166" frameX="-37" frameY="-100" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupDown0002" x="592" y="543" width="202" height="167" frameX="-35" frameY="-98" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupIdle0000" x="627" y="0" width="199" height="181" frameX="-39" frameY="-81" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupIdle0001" x="627" y="181" width="199" height="181" frameX="-38" frameY="-81" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupIdle0002" x="385" y="198" width="199" height="181" frameX="-39" frameY="-81" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupIdle0003" x="0" y="378" width="199" height="181" frameX="-38" frameY="-82" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupLeft0000" x="0" y="742" width="211" height="169" frameX="-21" frameY="-93" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupLeft0001" x="196" y="560" width="208" height="169" frameX="-25" frameY="-93" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupLeft0002" x="211" y="729" width="206" height="169" frameX="-28" frameY="-93" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupOwie0000" x="221" y="0" width="214" height="183" frameX="-34" frameY="-78" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupOwie0001" x="0" y="0" width="221" height="183" frameX="-39" frameY="-80" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupOwie0002" x="0" y="559" width="196" height="183" frameX="-40" frameY="-80" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupRight0000" x="794" y="543" width="184" height="183" frameX="-61" frameY="-80" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupRight0001" x="417" y="727" width="186" height="184" frameX="-57" frameY="-79" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupRight0002" x="404" y="543" width="188" height="184" frameX="-54" frameY="-79" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupShoot0000" x="584" y="362" width="199" height="181" frameX="-39" frameY="-82" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupShoot0001" x="783" y="362" width="199" height="181" frameX="-38" frameY="-82" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupShoot0002" x="199" y="379" width="199" height="181" frameX="-39" frameY="-81" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0000" x="627" y="0" width="199" height="181" frameX="-39" frameY="-81" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0001" x="627" y="181" width="199" height="181" frameX="-38" frameY="-81" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0002" x="385" y="198" width="199" height="181" frameX="-39" frameY="-81" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0003" x="0" y="378" width="199" height="181" frameX="-38" frameY="-82" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0004" x="584" y="362" width="199" height="181" frameX="-39" frameY="-82" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0005" x="783" y="362" width="199" height="181" frameX="-38" frameY="-82" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0006" x="199" y="379" width="199" height="181" frameX="-39" frameY="-81" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0007" x="783" y="362" width="199" height="181" frameX="-38" frameY="-82" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0008" x="783" y="362" width="199" height="181" frameX="-38" frameY="-82" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupTooLazyToAnimateThis0009" x="783" y="362" width="199" height="181" frameX="-38" frameY="-82" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupUp0000" x="435" y="0" width="192" height="198" frameX="-44" frameY="-60" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupUp0001" x="0" y="183" width="192" height="195" frameX="-45" frameY="-63" frameWidth="300" frameHeight="300"/>
+  <SubTexture name="CupUp0002" x="192" y="183" width="193" height="192" frameX="-44" frameY="-66" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>
