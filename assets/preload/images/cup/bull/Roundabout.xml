@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Roundabout.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="Roundabout instance 10000" x="5" y="5" width="156" height="149" frameX="-3.5" frameY="-6.5" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10001" x="166" y="5" width="157" height="156" frameX="-3" frameY="0" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10002" x="328" y="5" width="144" height="158.5" frameX="-8" frameY="-1.5" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10003" x="477" y="5" width="145.5" height="158" frameX="-12" frameY="-0.5" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10004" x="627.5" y="5" width="151" height="154.5" frameX="-4.5" frameY="-2.5" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10005" x="783.5" y="5" width="155.5" height="151.5" frameX="-4.5" frameY="-3.5" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10006" x="5" y="168.5" width="150.5" height="149" frameX="-5" frameY="-6" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10007" x="155.5" y="168.5" width="159" height="146.5" frameX="-2.5" frameY="-8.5" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10008" x="315.5" y="168.5" width="165" height="146" frameX="0" frameY="-7" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10009" x="494.5" y="168.5" width="164.5" height="138" frameX="-1.5" frameY="-10.5" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10010" x="664" y="168.5" width="161.5" height="144" frameX="0" frameY="-7.5" frameWidth="166.5" frameHeight="160"/>
+<SubTexture name="Roundabout instance 10011" x="830.5" y="168.5" width="158.5" height="144" frameX="-2" frameY="-9.5" frameWidth="166.5" frameHeight="160"/>
+
+</TextureAtlas>

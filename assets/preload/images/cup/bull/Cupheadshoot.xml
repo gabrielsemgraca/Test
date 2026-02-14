@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cupheadshoot.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="blanksprite0000" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10000" x="5" y="5" width="35.5" height="17.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10001" x="45.5" y="5" width="75.5" height="18.5" frameX="-39.5" frameY="-153.5" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10002" x="126" y="5" width="148" height="19" frameX="-45" frameY="-152.5" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10003" x="279" y="5" width="162" height="19.5" frameX="-108.5" frameY="-151.5" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10004" x="446" y="5" width="136" height="18.5" frameX="-212" frameY="-153.5" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10005" x="587" y="5" width="164" height="58" frameX="-275.5" frameY="-130" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10006" x="201" y="382" width="84.5" height="83.5" frameX="-363" frameY="-118" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10007" x="290.5" y="382" width="173.5" height="172.5" frameX="-318" frameY="-65" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10008" x="469" y="382" width="254" height="261.5" frameX="-275.5" frameY="-22" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10009" x="728" y="382" width="273.5" height="295.5" frameX="-272" frameY="-4.5" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10010" x="5" y="682.5" width="288.5" height="309.5" frameX="-262" frameY="0" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10011" x="756" y="5" width="0" height="0" frameX="1393.5" frameY="605" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 10012" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20000" x="5" y="5" width="35.5" height="17.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20001" x="45.5" y="5" width="75.5" height="18.5" frameX="-39.5" frameY="-153.5" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20002" x="126" y="5" width="148" height="19" frameX="-45" frameY="-152.5" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20003" x="279" y="5" width="162" height="19.5" frameX="-108.5" frameY="-151.5" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20004" x="446" y="5" width="136" height="18.5" frameX="-212" frameY="-153" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20005" x="587" y="5" width="164" height="58" frameX="-275.5" frameY="-130" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20006" x="201" y="382" width="84.5" height="83.5" frameX="-363" frameY="-117.5" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20007" x="290.5" y="382" width="173.5" height="172.5" frameX="-318" frameY="-65" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20008" x="469" y="382" width="254" height="261.5" frameX="-275.5" frameY="-22" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20009" x="728" y="382" width="273.5" height="295.5" frameX="-272" frameY="-4.5" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20010" x="5" y="68" width="288.5" height="309" frameX="-262" frameY="0" frameWidth="550.5" frameHeight="309"/>
+<SubTexture name="pew2 instance 20011" x="756" y="5" width="0" height="0" frameX="1389" frameY="580" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew2 instance 20012" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10000" x="298.5" y="68" width="41.5" height="18.5" frameX="0" frameY="-151.5" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10001" x="345" y="68" width="64" height="21" frameX="-40.5" frameY="-150.5" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10002" x="414" y="68" width="167.5" height="18" frameX="-11.5" frameY="-152" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10003" x="586.5" y="68" width="123.5" height="16" frameX="-121" frameY="-153" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10004" x="715" y="68" width="148" height="19" frameX="-160" frameY="-151" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10005" x="5" y="382" width="191" height="57.5" frameX="-209" frameY="-130.5" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10006" x="201" y="382" width="84.5" height="83.5" frameX="-323.5" frameY="-118" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10007" x="290.5" y="382" width="173.5" height="172.5" frameX="-278.5" frameY="-65.5" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10008" x="469" y="382" width="254" height="261.5" frameX="-236" frameY="-22" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10009" x="728" y="382" width="273.5" height="295.5" frameX="-232.5" frameY="-5" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10010" x="5" y="682.5" width="288.5" height="309.5" frameX="-222.5" frameY="0" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10011" x="298.5" y="682.5" width="0" height="0" frameX="1398.5" frameY="627.5" frameWidth="511" frameHeight="309.5"/>
+<SubTexture name="pew3 instance 10012" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="BulletFlashFX instance 10000" x="303.5" y="682.5" width="49" height="59" frameX="-21" frameY="-17" frameWidth="92.5" frameHeight="88.5"/>
+<SubTexture name="BulletFlashFX instance 10001" x="357.5" y="682.5" width="56" height="68.5" frameX="-17.5" frameY="-12.5" frameWidth="92.5" frameHeight="88.5"/>
+<SubTexture name="BulletFlashFX instance 10002" x="418.5" y="682.5" width="81.5" height="76" frameX="0" frameY="-10.5" frameWidth="92.5" frameHeight="88.5"/>
+<SubTexture name="BulletFlashFX instance 10003" x="505" y="682.5" width="92" height="88.5" frameX="-0.5" frameY="0" frameWidth="92.5" frameHeight="88.5"/>
+<SubTexture name="BulletFlashFX instance 10004" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+</TextureAtlas>

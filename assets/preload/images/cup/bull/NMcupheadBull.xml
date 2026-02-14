@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NMcupheadBull.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+<SubTexture name="blanksprite0000" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="Shot01 instance 10000" x="5" y="5" width="59.5" height="46" frameX="0" frameY="-131" frameWidth="481" frameHeight="263"/>
+<SubTexture name="Shot01 instance 10001" x="69.5" y="5" width="98.5" height="49.5" frameX="-47.5" frameY="-155" frameWidth="481" frameHeight="263"/>
+<SubTexture name="Shot01 instance 10002" x="173" y="5" width="172.5" height="43" frameX="-72" frameY="-167" frameWidth="481" frameHeight="263"/>
+<SubTexture name="Shot01 instance 10003" x="350.5" y="5" width="185" height="52.5" frameX="-107.5" frameY="-161" frameWidth="481" frameHeight="263"/>
+<SubTexture name="Shot01 instance 10004" x="540.5" y="5" width="212.5" height="110.5" frameX="-183" frameY="-100.5" frameWidth="481" frameHeight="263"/>
+<SubTexture name="Shot01 instance 10005" x="758" y="5" width="158.5" height="157.5" frameX="-277" frameY="-50.5" frameWidth="481" frameHeight="263"/>
+<SubTexture name="Shot01 instance 10006" x="609.5" y="458" width="235" height="252" frameX="-242" frameY="-4" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot01 instance 10007" x="5" y="715" width="247" height="263" frameX="-234" frameY="0" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot01 instance 10008" x="921.5" y="5" width="0" height="0" frameX="586" frameY="80.5" frameWidth="481" frameHeight="263"/>
+<SubTexture name="Shot01 instance 10009" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="Shot02 instance 10000" x="926.5" y="5" width="52" height="55.5" frameX="0" frameY="-85.5" frameWidth="497.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10001" x="5" y="167.5" width="90.5" height="68" frameX="-23" frameY="-37" frameWidth="497.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10002" x="100.5" y="167.5" width="172.5" height="44" frameX="-66" frameY="-13" frameWidth="497.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10003" x="278" y="167.5" width="181.5" height="67" frameX="-135.5" frameY="-5" frameWidth="497.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10004" x="464.5" y="167.5" width="135.5" height="104.5" frameX="-232" frameY="-9" frameWidth="497.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10005" x="605" y="167.5" width="80" height="75.5" frameX="-332" frameY="-94" frameWidth="497.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10006" x="446" y="458" width="158.5" height="157.5" frameX="-293.5" frameY="-50.5" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10007" x="609.5" y="458" width="235" height="252" frameX="-258.5" frameY="-4" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10008" x="5" y="715" width="247" height="263" frameX="-250.5" frameY="0" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10009" x="690" y="167.5" width="0" height="0" frameX="580.5" frameY="55.5" frameWidth="497.5" frameHeight="263"/>
+<SubTexture name="Shot02 instance 10010" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="Shot03 instance 10000" x="695" y="167.5" width="96.5" height="56" frameX="0" frameY="-121" frameWidth="517" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10001" x="796.5" y="167.5" width="168" height="66" frameX="-40.5" frameY="-140.5" frameWidth="517" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10002" x="5" y="277" width="183" height="60.5" frameX="-114.5" frameY="-166" frameWidth="517" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10003" x="193" y="277" width="158.5" height="53" frameX="-230" frameY="-184.5" frameWidth="517" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10004" x="356.5" y="277" width="60" height="41.5" frameX="-380.5" frameY="-200" frameWidth="517" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10005" x="421.5" y="277" width="53" height="50.5" frameX="-463.5" frameY="-184.5" frameWidth="517" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10006" x="479.5" y="277" width="94.5" height="57" frameX="-422.5" frameY="-147.5" frameWidth="517" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10007" x="579" y="277" width="192.5" height="97.5" frameX="-317" frameY="-100.5" frameWidth="517" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10008" x="446" y="458" width="158.5" height="157.5" frameX="-278.5" frameY="-50.5" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10009" x="609.5" y="458" width="235" height="252" frameX="-243.5" frameY="-4" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10010" x="5" y="715" width="247" height="263" frameX="-235.5" frameY="0" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10011" x="776.5" y="277" width="0" height="0" frameX="586.5" frameY="88.5" frameWidth="517" frameHeight="263"/>
+<SubTexture name="Shot03 instance 10012" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="Shot04 instance 10000" x="781.5" y="277" width="59.5" height="46.5" frameX="0" frameY="-84.5" frameWidth="480" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10001" x="846" y="277" width="98.5" height="49.5" frameX="-47.5" frameY="-56.5" frameWidth="480" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10002" x="5" y="379.5" width="172.5" height="43" frameX="-72" frameY="-51" frameWidth="480" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10003" x="182.5" y="379.5" width="185" height="56" frameX="-106.5" frameY="-52" frameWidth="480" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10004" x="372.5" y="379.5" width="154.5" height="73.5" frameX="-182" frameY="-55" frameWidth="480" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10005" x="532" y="379.5" width="80" height="72" frameX="-314.5" frameY="-97.5" frameWidth="480" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10006" x="446" y="458" width="158.5" height="157.5" frameX="-276" frameY="-50.5" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10007" x="609.5" y="458" width="235" height="252" frameX="-241" frameY="-4" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10008" x="5" y="715" width="247" height="263" frameX="-233" frameY="0" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10009" x="617" y="379.5" width="0" height="0" frameX="587" frameY="97.5" frameWidth="480" frameHeight="263"/>
+<SubTexture name="Shot04 instance 10010" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+<SubTexture name="Shot05 instance 10000" x="622" y="379.5" width="58.5" height="42.5" frameX="0" frameY="-105" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10001" x="685.5" y="379.5" width="99.5" height="43" frameX="-24.5" frameY="-104.5" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10002" x="790" y="379.5" width="172.5" height="43.5" frameX="-15" frameY="-105" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10003" x="5" y="458" width="186" height="45.5" frameX="-63" frameY="-116" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10004" x="196" y="458" width="160" height="46" frameX="-151.5" frameY="-114" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10005" x="361" y="458" width="80" height="69" frameX="-306.5" frameY="-100.5" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10006" x="446" y="458" width="158.5" height="157.5" frameX="-268" frameY="-50.5" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10007" x="609.5" y="458" width="235" height="252" frameX="-233" frameY="-4" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10008" x="5" y="715" width="247" height="263" frameX="-225" frameY="0" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10009" x="257" y="715" width="0" height="0" frameX="595" frameY="85.5" frameWidth="471.5" frameHeight="263"/>
+<SubTexture name="Shot05 instance 10010" x="0" y="0" width="0.5" height="0.5" frameX="0" frameY="-154" frameWidth="550.5" frameHeight="309.5"/>
+</TextureAtlas>
