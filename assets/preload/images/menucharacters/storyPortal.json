@@ -1,0 +1,11 @@
+{
+	
+	"image": "storyPortal",
+	"position": [
+		130,
+		-358
+	],
+	"scale": 0.9,
+	"idle_anim": "idle",
+	"confirm_anim": ""
+}

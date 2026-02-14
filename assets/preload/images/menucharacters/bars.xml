@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_BF.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bar0000" x="0" y="0" width="1280" height="386" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="386"/>
+</TextureAtlas>
