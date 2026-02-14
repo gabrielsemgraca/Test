@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RainCross.png">
+<SubTexture name="SmolRain0000" x="0" y="0" width="499" height="281" frameX="-2" frameY="-2" frameWidth="510" frameHeight="290" />
+<SubTexture name="SmolRain0001" x="499" y="0" width="498" height="281" frameX="-2" frameY="-5" frameWidth="510" frameHeight="290" />
+<SubTexture name="SmolRain0002" x="0" y="281" width="497" height="280" frameX="0" frameY="-2" frameWidth="510" frameHeight="290" />
+<SubTexture name="SmolRain0003" x="497" y="281" width="498" height="280" frameX="-4" frameY="-6" frameWidth="510" frameHeight="290" />
+</TextureAtlas>

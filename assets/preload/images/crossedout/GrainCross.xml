@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GrainCross.png">
+<SubTexture name="Grain0000" x="0.0" y="0.0" width="263.0" height="148.0" frameX="0.0" frameY="0.0" frameWidth="263.0" frameHeight="148.0" />
+<SubTexture name="Grain0001" x="263.0" y="0.0" width="263.0" height="148.0" frameX="0.0" frameY="0.0" frameWidth="263.0" frameHeight="148.0" />
+<SubTexture name="Grain0002" x="526.0" y="0.0" width="263.0" height="148.0" frameX="0.0" frameY="0.0" frameWidth="263.0" frameHeight="148.0" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RainCross.png">
+<SubTexture name="OldTimey0000" x="0" y="0" width="331" height="184" frameX="-2" frameY="0" frameWidth="333" frameHeight="184" />
+<SubTexture name="OldTimey0001" x="331" y="0" width="333" height="184" frameX="0" frameY="0" frameWidth="333" frameHeight="184" />
+<SubTexture name="OldTimey0002" x="0" y="184" width="331" height="184" frameX="-2" frameY="0" frameWidth="333" frameHeight="184" />
+<SubTexture name="OldTimey0003" x="331" y="184" width="331" height="184" frameX="-2" frameY="0" frameWidth="333" frameHeight="184" />
+<SubTexture name="OldTimey0004" x="0" y="368" width="331" height="184" frameX="-2" frameY="0" frameWidth="333" frameHeight="184" />
+<SubTexture name="OldTimey0005" x="331" y="368" width="331" height="184" frameX="-2" frameY="0" frameWidth="333" frameHeight="184" />
+</TextureAtlas>
